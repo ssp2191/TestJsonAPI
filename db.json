@@ -1,7 +1,1 @@
 {"num": 7,"nal": 7, "dyn" : "1"}
-{"num": 1,"nal": 1, "dyn" : "1"}
-{"num": 2,"nal": 3, "dyn" : "test"}
-{"num": 3,"nal": 5, "dyn" : {"sub":1}}
-{"num": 4,"dyn":["abc","23"]}
-{"num": 8,"dyn": 69}
-{"num": 9}
